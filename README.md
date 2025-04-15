@@ -24,9 +24,9 @@ Each phase is documented in its own Jupyter Notebook.
 │   ├── 01_EDA_STT.ipynb <br>
 │   ├── 02_Feature_Engineering_STT.ipynb <br>
 │   └──  03_Modeling_and_Evaluaitng_STT.ipynb <br>
-├── utils/ <br>
-└──  requirements.txt <br>
-README.md
+└── utils/ <br>
+requirements.txt <br>
+README.md <br>
 
 ---
 
