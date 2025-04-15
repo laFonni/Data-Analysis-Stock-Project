@@ -22,7 +22,7 @@ Each phase is documented in its own Jupyter Notebook.
 **├── 02_Feature_Engineering_STT.ipynb** # Feature creation and preprocessing <br>
 **├── 03_Modeling_and_Evaluaitng_STT.ipynb** # Model training and evaluation <br>
 **├── requirements.txt**                    #Requirements <br>
-**├── README.md**                       # Project description and guide <br>
+**README.md**                       # Project description and guide <br>
 
 
 
