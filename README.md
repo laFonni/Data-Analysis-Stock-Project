@@ -17,6 +17,7 @@ Each phase is documented in its own Jupyter Notebook.
 ---
 
 ## 📂 Project Structure
+**Stock Price Analyzer**
 **├── 01_EDA_STT.ipynb**                # Data exploration and visualization <br>
 **├── 02_Feature_Engineering_STT.ipynb** # Feature creation and preprocessing <br>
 **├── 03_Modeling_and_Evaluaitng_STT.ipynb** # Model training and evaluation <br>
